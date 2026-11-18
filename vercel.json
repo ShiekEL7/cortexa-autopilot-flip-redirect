@@ -1,0 +1,5 @@
+{
+  "redirects": [
+    { "source": "/(.*)", "destination": "https://muse.ai/s/cortexa-autopilot-flip-public-zw6xj3xva3rxpj/cs9FaI0FMij6UB_7w0ILf0eXr6HLE6PFDtO6aLhr0Tw", "permanent": false }
+  ]
+}
